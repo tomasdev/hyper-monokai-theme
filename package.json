@@ -1,0 +1,14 @@
+{
+  "name": "hyper-monokai-theme",
+  "version": "0.0.1",
+  "description": "A Hyper theme inspired by Sublime Text original theme",
+  "main": "index.js",
+  "author": {
+    "name": "Tom Roggero",
+    "email": "hola@tomasroggero.com",
+    "url": "https://github.com/tomasdev"
+  },
+  "keywords": ["hyper.js", "hyper-theme", "npm"],
+  "repository": "https://github.com/toamsdev/hyper-monokai-theme",
+  "license": "MIT"
+}
